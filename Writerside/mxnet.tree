@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="mxnet"
+                 name="MXNet"
+                 start-page="mxnet.md">
+
+    <toc-element topic="mxnet.md"/>
+    <toc-element toc-title="Server">
+        <toc-element toc-title="Behavior">
+            <toc-element topic="Protocol.md"/>
+        </toc-element>
+        <toc-element topic="Server.md"/>
+    </toc-element>
+</instance-profile>
